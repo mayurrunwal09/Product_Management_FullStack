@@ -1,0 +1,48 @@
+C:\Users\TGSUser148\Desktop\working task of days\Poduct_Management_Test\Test_Product_Management_Module\Domain\bin\Debug\net6.0\Domain.deps.json
+C:\Users\TGSUser148\Desktop\working task of days\Poduct_Management_Test\Test_Product_Management_Module\Domain\bin\Debug\net6.0\Domain.dll
+C:\Users\TGSUser148\Desktop\working task of days\Poduct_Management_Test\Test_Product_Management_Module\Domain\bin\Debug\net6.0\Domain.pdb
+C:\Users\TGSUser148\Desktop\working task of days\Poduct_Management_Test\Test_Product_Management_Module\Domain\obj\Debug\net6.0\Domain.csproj.AssemblyReference.cache
+C:\Users\TGSUser148\Desktop\working task of days\Poduct_Management_Test\Test_Product_Management_Module\Domain\obj\Debug\net6.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TGSUser148\Desktop\working task of days\Poduct_Management_Test\Test_Product_Management_Module\Domain\obj\Debug\net6.0\Domain.AssemblyInfoInputs.cache
+C:\Users\TGSUser148\Desktop\working task of days\Poduct_Management_Test\Test_Product_Management_Module\Domain\obj\Debug\net6.0\Domain.AssemblyInfo.cs
+C:\Users\TGSUser148\Desktop\working task of days\Poduct_Management_Test\Test_Product_Management_Module\Domain\obj\Debug\net6.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\TGSUser148\Desktop\working task of days\Poduct_Management_Test\Test_Product_Management_Module\Domain\obj\Debug\net6.0\Domain.dll
+C:\Users\TGSUser148\Desktop\working task of days\Poduct_Management_Test\Test_Product_Management_Module\Domain\obj\Debug\net6.0\refint\Domain.dll
+C:\Users\TGSUser148\Desktop\working task of days\Poduct_Management_Test\Test_Product_Management_Module\Domain\obj\Debug\net6.0\Domain.pdb
+C:\Users\TGSUser148\Desktop\working task of days\Poduct_Management_Test\Test_Product_Management_Module\Domain\obj\Debug\net6.0\ref\Domain.dll
+C:\Users\panka\Downloads\Test_Product_Management_Module\Test_Product_Management_Module\Domain\bin\Debug\net6.0\Domain.deps.json
+C:\Users\panka\Downloads\Test_Product_Management_Module\Test_Product_Management_Module\Domain\bin\Debug\net6.0\Domain.dll
+C:\Users\panka\Downloads\Test_Product_Management_Module\Test_Product_Management_Module\Domain\bin\Debug\net6.0\Domain.pdb
+C:\Users\panka\Downloads\Test_Product_Management_Module\Test_Product_Management_Module\Domain\obj\Debug\net6.0\Domain.csproj.AssemblyReference.cache
+C:\Users\panka\Downloads\Test_Product_Management_Module\Test_Product_Management_Module\Domain\obj\Debug\net6.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\panka\Downloads\Test_Product_Management_Module\Test_Product_Management_Module\Domain\obj\Debug\net6.0\Domain.AssemblyInfoInputs.cache
+C:\Users\panka\Downloads\Test_Product_Management_Module\Test_Product_Management_Module\Domain\obj\Debug\net6.0\Domain.AssemblyInfo.cs
+C:\Users\panka\Downloads\Test_Product_Management_Module\Test_Product_Management_Module\Domain\obj\Debug\net6.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\panka\Downloads\Test_Product_Management_Module\Test_Product_Management_Module\Domain\obj\Debug\net6.0\Domain.dll
+C:\Users\panka\Downloads\Test_Product_Management_Module\Test_Product_Management_Module\Domain\obj\Debug\net6.0\refint\Domain.dll
+C:\Users\panka\Downloads\Test_Product_Management_Module\Test_Product_Management_Module\Domain\obj\Debug\net6.0\Domain.pdb
+C:\Users\panka\Downloads\Test_Product_Management_Module\Test_Product_Management_Module\Domain\obj\Debug\net6.0\ref\Domain.dll
+C:\Users\prati\Desktop\Mayur\Test_Product_Management_Module\Test_Product_Management_Module\Domain\bin\Debug\net6.0\Domain.deps.json
+C:\Users\prati\Desktop\Mayur\Test_Product_Management_Module\Test_Product_Management_Module\Domain\bin\Debug\net6.0\Domain.dll
+C:\Users\prati\Desktop\Mayur\Test_Product_Management_Module\Test_Product_Management_Module\Domain\bin\Debug\net6.0\Domain.pdb
+C:\Users\prati\Desktop\Mayur\Test_Product_Management_Module\Test_Product_Management_Module\Domain\obj\Debug\net6.0\Domain.csproj.AssemblyReference.cache
+C:\Users\prati\Desktop\Mayur\Test_Product_Management_Module\Test_Product_Management_Module\Domain\obj\Debug\net6.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\prati\Desktop\Mayur\Test_Product_Management_Module\Test_Product_Management_Module\Domain\obj\Debug\net6.0\Domain.AssemblyInfoInputs.cache
+C:\Users\prati\Desktop\Mayur\Test_Product_Management_Module\Test_Product_Management_Module\Domain\obj\Debug\net6.0\Domain.AssemblyInfo.cs
+C:\Users\prati\Desktop\Mayur\Test_Product_Management_Module\Test_Product_Management_Module\Domain\obj\Debug\net6.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\prati\Desktop\Mayur\Test_Product_Management_Module\Test_Product_Management_Module\Domain\obj\Debug\net6.0\Domain.dll
+C:\Users\prati\Desktop\Mayur\Test_Product_Management_Module\Test_Product_Management_Module\Domain\obj\Debug\net6.0\refint\Domain.dll
+C:\Users\prati\Desktop\Mayur\Test_Product_Management_Module\Test_Product_Management_Module\Domain\obj\Debug\net6.0\Domain.pdb
+C:\Users\prati\Desktop\Mayur\Test_Product_Management_Module\Test_Product_Management_Module\Domain\obj\Debug\net6.0\ref\Domain.dll
+C:\Users\TGSUser070\Desktop\ASP.NET CORE WEB API\Test_Product_Management_Module\Test_Product_Management_Module\Domain\bin\Debug\net6.0\Domain.deps.json
+C:\Users\TGSUser070\Desktop\ASP.NET CORE WEB API\Test_Product_Management_Module\Test_Product_Management_Module\Domain\bin\Debug\net6.0\Domain.dll
+C:\Users\TGSUser070\Desktop\ASP.NET CORE WEB API\Test_Product_Management_Module\Test_Product_Management_Module\Domain\bin\Debug\net6.0\Domain.pdb
+C:\Users\TGSUser070\Desktop\ASP.NET CORE WEB API\Test_Product_Management_Module\Test_Product_Management_Module\Domain\obj\Debug\net6.0\Domain.csproj.AssemblyReference.cache
+C:\Users\TGSUser070\Desktop\ASP.NET CORE WEB API\Test_Product_Management_Module\Test_Product_Management_Module\Domain\obj\Debug\net6.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TGSUser070\Desktop\ASP.NET CORE WEB API\Test_Product_Management_Module\Test_Product_Management_Module\Domain\obj\Debug\net6.0\Domain.AssemblyInfoInputs.cache
+C:\Users\TGSUser070\Desktop\ASP.NET CORE WEB API\Test_Product_Management_Module\Test_Product_Management_Module\Domain\obj\Debug\net6.0\Domain.AssemblyInfo.cs
+C:\Users\TGSUser070\Desktop\ASP.NET CORE WEB API\Test_Product_Management_Module\Test_Product_Management_Module\Domain\obj\Debug\net6.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\TGSUser070\Desktop\ASP.NET CORE WEB API\Test_Product_Management_Module\Test_Product_Management_Module\Domain\obj\Debug\net6.0\Domain.dll
+C:\Users\TGSUser070\Desktop\ASP.NET CORE WEB API\Test_Product_Management_Module\Test_Product_Management_Module\Domain\obj\Debug\net6.0\refint\Domain.dll
+C:\Users\TGSUser070\Desktop\ASP.NET CORE WEB API\Test_Product_Management_Module\Test_Product_Management_Module\Domain\obj\Debug\net6.0\Domain.pdb
+C:\Users\TGSUser070\Desktop\ASP.NET CORE WEB API\Test_Product_Management_Module\Test_Product_Management_Module\Domain\obj\Debug\net6.0\ref\Domain.dll

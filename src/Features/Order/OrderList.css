@@ -1,0 +1,46 @@
+/* OrderList.css */
+.order-list-container {
+    padding: 20px;
+  }
+  
+  .error-message {
+    color: red;
+  }
+  
+  .order-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+  }
+  
+  .order-table th, .order-table td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: left;
+  }
+  
+  .order-table th {
+    background-color: #f2f2f2;
+  }
+  
+  .modal {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .modal-content {
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 8px;
+    width: 300px;
+  }
+  
+  .modal-content h2 {
+    margin-bottom: 16px;
+  }
+  
+  .modal-content button {
+    margin-right: 8px;
+  }
+  
