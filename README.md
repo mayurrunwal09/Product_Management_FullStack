@@ -32,6 +32,6 @@ This project is a robust Product Management System designed to handle products a
 
 1. Clone the repository.
    ```bash
-   git clone https://github.com/your-username/your-repo.git
+   git clone [https://github.com/your-username/your-repo.git](https://github.com/mayurrunwal09/Product_Management_FullStack.git)https://github.com/mayurrunwal09/Product_Management_FullStack.git
    cd your-repo
 
